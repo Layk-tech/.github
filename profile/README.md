@@ -4,9 +4,8 @@
 
 <p align="center">
   <strong>AI-native business platform.</strong><br />
-  Implantamos um ambiente digital sob medida — processos, dados, automações e IA
-  conectados no ecossistema da empresa.<br />
-  Não é mais um SaaS por cima do que já existe. É entrega completa.
+  A plataforma que se adapta à sua empresa.<br />
+ Conectamos o que sua operação já usa e criamos o que ela ainda precisa: automações, ferramentas e inteligência artificial em um único ambiente.
 </p>
 
 <p align="center">
