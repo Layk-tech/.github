@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>AI-native business platform.</strong><br />
-  A plataforma que se adapta à sua empresa.<br />
+  <strong>Native Business Platform.</strong><br />
+  A plataforma que destrava a sua empresa.<br />
  Conectamos o que sua operação já usa e criamos o que ela ainda precisa: automações, ferramentas e inteligência artificial em um único ambiente.
 </p>
 
