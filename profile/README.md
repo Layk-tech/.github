@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/layk-lockup.png" width="300" alt="LAYK — AI THAT ADAPTS." />
+  <img src="./assets/layk-lockup.png" width="300" alt="LAYK — AI WITH STRATEGY." />
 </p>
 
 <p align="center">
@@ -61,5 +61,5 @@ desenvolvimento — MVPs em semanas, não meses.
 ---
 
 <p align="center">
-  <code>AI THAT ADAPTS.</code>
+  <code>AI WITH STRATEGY.</code>
 </p>
